@@ -1,0 +1,71 @@
+{
+    "items":[
+        {
+            "sys" : {"id":1},
+            "fields":{
+                "title":"Python Programming Mastercourse",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/deep_l.png"}}}
+            }
+        },
+        {
+            "sys" : {"id":2},
+            "fields":{
+                "title":"Computer Vision course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/computer_vision.png"}}}
+            }
+        },
+        {
+            "sys" : {"id":3},
+            "fields":{
+                "title":"HTML Course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/html.png"}}}
+            }
+        },
+        {
+            "sys" : {"id":4},
+            "fields":{
+                "title":"CSS Course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/css.png"}}}
+            }
+        },
+        {
+            "sys" : {"id":5},
+            "fields":{
+                "title":"JAVASCRIPT Course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/javascript.png"}}}
+            }
+        },
+        {
+            "sys" : {"id":6},
+            "fields":{
+                "title":"WEB Technology Course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/web_te.png"}}}
+            }
+        },
+        
+        {
+            "sys" : {"id":7},
+            "fields":{
+                "title":"Image Processing Mastercourse",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/image_process.png"}}}
+            }
+        },
+        {
+            "sys" : {"id":8},
+            "fields":{
+                "title":"Cloud Computing Course",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"images/javascript.png"}}}
+            }
+        }
+        
+
+    ]
+}
